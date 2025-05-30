@@ -1,18 +1,20 @@
-<img src="https://github.com/اسم_مستخدمك/اسم_مستخدمك/blob/main/header.png" alt="GitHub README Header">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Welcome GIF" width="100%">
 
-<p>
+<p align="center">
   <a href="https://x.com/your_username"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/your_profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/your_username"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
-## 👋 مرحبًا بك في صفحتي!
+<h2 align="center">👋 مرحبًا بك! أنا <strong>محمد</strong></h2>
 
-🧠 **أنا مطور ويب طموح بعمر 13 عامًا**  
-📚 أتعلم حاليًا تطوير المواقع باستخدام Python, HTML, CSS  
+🧠 **مطور ويب طموح بعمر 13 عامًا**  
+📚 أتعلم تطوير المواقع باستخدام Python, HTML, CSS  
 
 🥋 أمارس رياضة الكاراتيه  
 🎯 أوازن بين الدراسة، والدين، والبرمجة، والرياضة
+
+---
 
 ## 💼 مهاراتي
 
@@ -21,15 +23,21 @@
 - 🧠 التفكير المنطقي وحل المشكلات
 - 🔧 Git و GitHub
 
+---
+
 ## 🚀 أهدافي
 
-- تطوير مواقع تعليمية مفيدة
-- بناء مشاريع مفتوحة المصدر تساعد المبتدئين
-- تعلم العمل الحر والربح من الإنترنت بطرق نافعة
+- إنشاء مشاريع تعليمية مفيدة
+- تطوير مهاراتي في البرمجة والعمل الحر
+- بناء مواقع تساعد الأطفال والمبتدئين على التعلم
+
+---
 
 ## 📊 إحصائياتي على GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=اسم_مستخدمك&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=default)
+
+---
 
 ## ☕ هل أعجبتك مشاريعي؟
 
